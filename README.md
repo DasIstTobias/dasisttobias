@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="100" src="Images/logo.png"  />
-</div>
-
-###
-
 <h1 align="left">Hallo! Ich bin Tobias.</h1>
 
 ###
