@@ -20,18 +20,31 @@
 
 <div align="left">
   <img src="Images/opensuse-original.svg" alt="opensuse logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/bash-original.svg" alt="bash logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/2496ED.svg" alt="docker logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/linux-original.svg" alt="linux logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/python-original.svg" alt="python logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/javascript-original.svg" alt="javascript logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/html5-original.svg" alt="html5 logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/1572B6.svg" alt="css3 logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/vscode-original.svg" alt="vscode logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/debian-original.svg" alt="debian logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/git-original.svg" alt="git logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/c-original.svg" alt="c logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/arduino-original.svg" alt="arduino logo" width="40" height="40"/>
+  <img width="12" />
   <img src="Images/raspberrypi-original.svg" alt="raspberrypi logo" width="40" height="40"/>
 </div>
 
