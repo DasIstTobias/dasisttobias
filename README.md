@@ -1,20 +1,20 @@
-<h1 align="left">Hallo! Ich bin Tobias.</h1>
+<h1 align="left">Hi, I'm Tobi :)</h1>
 
 ###
 
-<p align="left">Vielleicht kennst du mich, vielleicht auch nicht. Ich mache irgendwas mit Technik.<br>Ich hoste meine Dienste gerne selber. Dafür nutze ich Debian, Docker, Proxmox...<br>Ich kann Python, Bash, ein biss­chen C und dann noch HTML/CSS/JS.</p>
+<p align="left">Maybe you know me, maybe you don't. I do some tech stuff.<br>I like to host my own services. For that I use Debian, Docker, Proxmox...<br>I’m familiar with Python, Bash, a bit of C, and HTML/CSS/JS.</p>
 
 ###
 
-<h2 align="left">Ich...</h2>
+<h2 align="left">I...</h2>
 
 ###
 
-<p align="left">> nutze openSUSE Tumbleweed 🦎<br>> mag ThinkPads 💻<br>> programmiere komische Sachen und lade sie manchmal auf GitHub<br>> weiß, dass leider nicht alle Pinguine Linux nutzen</p>
+<p align="left">> use openSUSE Tumbleweed Linux 🦎<br>> like ThinkPads 💻<br>> program shitty software and sometimes upload it to GitHub<br>> know that unfortunately not all penguins are using Linux</p>
 
 ###
 
-<h2 align="left">Ich nutze...</h2>
+<h2 align="left">I use...</h2>
 
 ###
 
