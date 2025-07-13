@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">> use openSUSE Tumbleweed Linux 🦎 (because chameleon)<br>> like ThinkPads 💻 (just for the meme)<br>> write shitty software and sometimes upload it to GitHub (sometimes it even works)<br>> know that not all penguins are using Linux 🐧 (as they should)</p>
+<p align="left">> use openSUSE Tumbleweed Linux 🦎 (because chameleon)<br>> like ThinkPads 💻 (just for the meme)<br>> write shitty software and sometimes upload it to GitHub (sometimes it even works)<br>> know that not all penguins are using Linux 🐧 (as they should)<br>> like cats :3 (meow)</p>
 
 ###
 
