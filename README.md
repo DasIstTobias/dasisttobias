@@ -1,8 +1,8 @@
-<h1 align="left">Hi, I'm Tobi :)</h1>
+<h1 align="left">Hi...</h1>
 
 ###
 
-<p align="left">You might know me, but probably not. I do some tech stuff.<br>I like to host my own services. For that I use Debian, Docker, Proxmox...<br>I’m familiar with Python, Bash, a bit of C, and HTML/CSS/JS.</p>
+<p align="left">I do some tech stuff.<br>I like to host my own services. For that I use Debian, Docker, Proxmox...<br>I’m familiar with Python, Bash, a bit of C, and HTML/CSS/JS.</p>
 
 ###
 
