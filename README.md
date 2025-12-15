@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I do some tech stuff.<br>I like to host my own services. For that I use Debian, Docker, Proxmox...<br>I’m familiar with Python, Bash, a bit of C, and HTML/CSS/JS.</p>
+<p align="left">I do some tech stuff.<br>I like to host my own services. For that I use Debian, Docker, Proxmox...<br>I’m familiar with Python, Rust, Bash, a bit of C, and HTML/CSS/JS.</p>
 
 ###
 
